@@ -1,0 +1,35 @@
+{
+  "projects": [
+    {
+      "title": "Church Service Highlight",
+      "category": "Video Editing",
+      "description": "A selected service recap shaped around pace, atmosphere and key moments.",
+      "url": "https://www.youtube.com/",
+      "featured": true,
+      "symbol": "01"
+    },
+    {
+      "title": "Visual Effects Experiment",
+      "category": "VFX",
+      "description": "A creative study exploring compositing and visual storytelling.",
+      "url": "https://www.youtube.com/",
+      "featured": true,
+      "symbol": "FX"
+    },
+    {
+      "title": "Creative Edit",
+      "category": "Editing",
+      "description": "A short-form edit focused on rhythm, sound and visual flow.",
+      "url": "https://www.youtube.com/",
+      "featured": true,
+      "symbol": "KF"
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "Add your first tutorial",
+      "description": "Replace this sample with a tutorial title and a short description.",
+      "url": "https://www.youtube.com/"
+    }
+  ]
+}

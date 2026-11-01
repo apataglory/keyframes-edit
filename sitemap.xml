@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR-DOMAIN with your deployed domain before publishing. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN/</loc></url>
+  <url><loc>https://YOUR-DOMAIN/about.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN/contact.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN/portfolio.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN/tutorials.html</loc></url>
+</urlset>

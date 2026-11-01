@@ -1,0 +1,4 @@
+# Replace YOUR-DOMAIN with your deployed domain.
+User-agent: *
+Allow: /
+Sitemap: https://YOUR-DOMAIN/sitemap.xml
