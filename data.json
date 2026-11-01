@@ -1,35 +1,29 @@
 {
   "projects": [
     {
-      "title": "Church Service Highlight",
-      "category": "Video Editing",
-      "description": "A selected service recap shaped around pace, atmosphere and key moments.",
-      "url": "https://www.youtube.com/",
+      "title": "Hallelujah Challenge | Day 2 Recap",
+      "category": "Event Video Editing",
+      "description": "A recap of Day 2 of the Hallelujah Challenge, capturing the atmosphere and memorable moments through creative editing.",
+      "url": "https://youtube.com/shorts/dskfYGzt_60",
       "featured": true,
-      "symbol": "01"
+      "symbol": "HC"
     },
     {
-      "title": "Visual Effects Experiment",
-      "category": "VFX",
-      "description": "A creative study exploring compositing and visual storytelling.",
-      "url": "https://www.youtube.com/",
+      "title": "Church Service Highlights",
+      "category": "Event Videography & Editing",
+      "description": "A collection of moments from a church service, captured and edited to preserve the atmosphere and experience.",
+      "url": "https://youtube.com/shorts/irDae1nz8S0",
       "featured": true,
-      "symbol": "FX"
+      "symbol": "CH"
     },
     {
-      "title": "Creative Edit",
-      "category": "Editing",
-      "description": "A short-form edit focused on rhythm, sound and visual flow.",
-      "url": "https://www.youtube.com/",
+      "title": "RAW Footage to Cinematic Edit",
+      "category": "Cinematic Editing & Colour Grading",
+      "description": "A before-and-after transformation showcasing the impact of creative editing, colour grading and visual effects.",
+      "url": "https://youtube.com/shorts/J_ve6tSi2q8",
       "featured": true,
-      "symbol": "KF"
+      "symbol": "RAW"
     }
   ],
-  "tutorials": [
-    {
-      "title": "Add your first tutorial",
-      "description": "Replace this sample with a tutorial title and a short description.",
-      "url": "https://www.youtube.com/"
-    }
-  ]
+  "tutorials": []
 }
